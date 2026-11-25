@@ -1,0 +1,12 @@
+Subject                         : Full Blood Count
+Creator                         : Mediroza CMS 1.4.2
+Producer                        : Mediroza Lab Reporting Module
+Keywords                        : pathology, fbc, patient report
+Subject                         : Lipid Profile
+Creator                         : Mediroza CMS 1.4.2
+Producer                        : Mediroza Lab Reporting Module
+Keywords                        : pathology, lipids, patient report
+Subject                         : Full Blood Count
+Creator                         : Mediroza CMS 1.4.2
+Producer                        : Mediroza Lab Reporting Module
+Keywords                        : pathology, patient report

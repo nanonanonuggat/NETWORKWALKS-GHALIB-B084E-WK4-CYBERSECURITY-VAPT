@@ -1,0 +1,28 @@
+=== Passive Reconnaissance ===
+Date: 2026-11-24T16:01:37+07:00
+
+=== WHOIS ===
+   Domain Name: MEDIROZAHOSPITAL.COM
+   Updated Date: 2026-08-14T21:07:45Z
+   Creation Date: 2026-08-14T20:51:24Z
+   Registry Expiry Date: 2027-08-14T20:51:24Z
+   Registrar: NameCheap, Inc.
+   Name Server: DNS1.NAMECHEAPHOSTING.COM
+   Name Server: DNS2.NAMECHEAPHOSTING.COM
+   DNSSEC: unsigned
+Domain name: medirozahospital.com
+Updated Date: 0001-01-01T00:00:00.00Z
+Creation Date: 2026-08-14T20:51:24.00Z
+Registrar: NAMECHEAP INC
+Name Server: dns1.namecheaphosting.com
+Name Server: dns2.namecheaphosting.com
+DNSSEC: unsigned
+
+=== DNS A ===
+medirozahospital.com.	14369	IN	A	199.188.201.16
+
+=== DNS AAAA ===
+
+=== DNS NS ===
+medirozahospital.com.	172769	IN	NS	dns2.namecheaphosting.com.
+medirozahospital.com.	172769	IN	NS	dns1.namecheaphosting.com.

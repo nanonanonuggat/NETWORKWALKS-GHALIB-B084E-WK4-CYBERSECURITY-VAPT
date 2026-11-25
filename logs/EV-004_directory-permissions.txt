@@ -1,0 +1,3 @@
+drwx------ 2 l3minerale l3minerale 4096 Nov 24 12:52 evidence
+drwx------ 2 l3minerale l3minerale 4096 Nov 24 14:48 logs
+drwx------ 2 l3minerale l3minerale 4096 Nov 24 14:31 notes
